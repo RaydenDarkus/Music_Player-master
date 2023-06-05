@@ -1,9 +1,3 @@
 # Music_Player
 
-
-/*
-git fetch origin master:tmp
-git rebase tmp
-git push origin HEAD:master
-git branch -D tmp
-*/
+A web application in the browser that can play and download music after searching.
